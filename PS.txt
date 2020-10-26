@@ -1,0 +1,71 @@
+ctrl+shift+i đảo vùng chọn
+ctrl+j tách layer riếng
+ctrl+d bỏ vùng chọn
+***magic warnd dùng để lựa chọn nhanh các màu tương đồng
+phần thông số tolerance: mặc định 32,
++tolerence là chỉ số tương đồng màu
++tolerence càng nhỏ thì thuật toán tìm vùng chọn những màu có biên độ tương đồng nhỏ
++chọn thêm giữ phím shift+ click tiếp, để chọn tiếp vùng chọn
++sau khi chọn đc rồi thì ấn ctrl+shift+i để đảo ngược vùng chọn
++ấn ctrl+j tách 1 layer riêng
+**tính nắng contigous
+-cho phép chọn đc những vùng bị ngăn cách bởi hình
+
+
+**Công cụ lọc cạnh refine edge trong việc tách viền
+**Công cụ pen tool
+
+
+**********
+GITHUB
+1.Các lệnh git cơ bản
++ git init: tạo recenary trong máy bạn
++ git clone: lấy từ trên mạng về
++ git pull: đồng bộ trên mạng về máy
+
++ git add 
++ git commit
++ git push 
+ 
++ git log
++ git log-decorate-graph-oneline
+
+NÂNG CAO
++ Git branch
++ Git checkout
++ Git merge
+
++git rebase
++git cherry pick
+
+
+*****************
+i'm sitting here in boring room( tôi đang ngồi đây trong căn phòng buồn tẻ)
+it's just another rainy sunday afternoon(chỉ là một buổi chiều mưa chủ nhật)
+I'm wasing my time. i got nothing to do(tôi đang lãng phí thời gian. tôi không có gì để làm cả
+i'm hanging around, i'm waiting for you (tôi đang ở quanh đây, tôi đang đợi bạn)
+but nothing ever happens and i wonder(nhưng chưa có j xảy ra và tôi tự hỏi)
+
+i'm driving around in my car
+i'm driving too fast, i'm driving too far
+
+i'd like to change my point of view
+i feel so lonely, i'm waiting for you
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
